@@ -516,7 +516,7 @@ A button can be added to a note by using standard markdown link syntax - the lin
  ❍ `/removeallnotes`*:* removes all notes from the group
  *Note:* Note names are case-insensitive, and they are automatically converted to lowercase before getting saved.
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ITSZ_SHIVANSH)............☆
+☆............𝙱𝚈 » [𝗠𝗔𝗗𝗔𝗥𝗔](https://t.me/dst_ka_papa)............☆
 """
 
 __mod_name__ = "✯Nᴏᴛᴇs✯"
