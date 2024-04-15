@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg"
+lol = "https://telegra.ph/file/5656374a044bce21388d5.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -56,7 +56,7 @@ async def restart(client, m: Message):
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼』
    ━━━━━━━━━━━━━━━━━━━
-  » ᴍʏ ᴏᴡɴᴇʀ : [ᴏᴡɴᴇʀ](https://t.me/ITSZ_SHIVANSH)
+  » ᴍʏ ᴏᴡɴᴇʀ : [ᴏᴡɴᴇʀ](https://t.me/DST_KA_PAPA)
   » ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ : 13.15
   » ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.32.0
   » ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ : 2.0.106
@@ -70,4 +70,4 @@ __help__ = """
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ITSZ_SHIVANSH)............☆"""
+☆............𝙱𝚈 » [𝗠𝗔𝗗𝗔𝗥𝗔](https://t.me/DST_KA_PAPA)............☆"""
