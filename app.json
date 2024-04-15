@@ -1,14 +1,14 @@
 {
-      "name": "˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼",
+      "name": "˹ 𝗦𝙷𝙸𝙺𝙸𝙼𝙾𝚁𝙸✘ 𝗥𝙾𝙱𝙾 ˼",
       "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
-      "logo": "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg",
+      "logo": "https://telegra.ph/file/5f5d384f3bbb32052041a.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/itzshukla/STRANGER-ROBOT2.0",
+   "repository": "https://github.com/madara1188/STRANGER-ROBOT2.0",
    "stack": "heroku-22",
    "addons": [
       {
@@ -22,12 +22,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "29308061"
+         "value": "29285243"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "462de3dfc98fd938ef9c6ee31a72d099"
+         "value": "9324e1e962756ac511288fbf4696ddfd"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -45,7 +45,7 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1002018556839"
+         "value": "-1001917426206"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -55,17 +55,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "6919199044"
+         "value": "5734659617"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/49059d553efa874c70cb3.jpg"
+         "value": "https://telegra.ph/file/a5b31462ee3d15b22400b.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "MASTIWITHFRIENDSXD"
+         "value": "TEAM_DST"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
