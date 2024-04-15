@@ -349,7 +349,7 @@ if is_module_loaded(FILENAME):
     ❍ /disablemodule <ᴍᴏᴅᴜʟᴇ ɴᴀᴍᴇ>*:* ᴅɪsᴀʙʟᴇ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ɪɴ ᴛʜᴀᴛ ᴍᴏᴅᴜʟᴇ
     ❍ /listcmds*:* ʟɪsᴛ ᴀʟʟ ᴘᴏssɪʙʟᴇ ᴛᴏɢɢʟᴇᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ITSZ_SHIVANSH)............☆
+☆............𝙱𝚈 » [𝗠𝗔𝗗𝗔𝗥𝗔](https://t.me/DST_KA_PAPA)............☆
     """
 
     __mod_name__ = "✯Dɪsᴀʙʟᴇ✯"
