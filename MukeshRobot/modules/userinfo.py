@@ -299,7 +299,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' \n[<a href="https://t.me/mastiwithfriendsx">ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪs ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟs.</a>]'.format(
+        text += ' \n[<a href="https://t.me/TEAM_DST">ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪs ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟs.</a>]'.format(
             bot.username
         )
 
@@ -337,16 +337,16 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/ITSZ_SHIVANSH"
+                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/DST_KA_PAPA"
                             ),
                             InlineKeyboardButton(
-                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/ABOUT_SHIVANSHOP"
+                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/ultra_bot_updates"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
-                                url=f"https://t.me/StrangerSuperbot?startgroup=true",
+                                url=f"https://t.me/Shikimori_ultrabot?startgroup=true",
                             ),
                         ],
                     ]
@@ -363,16 +363,16 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/ABOUT_SHIVANSHOP"
+                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/ULTRA_BOT_UPDATES"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/mastiwithfriendsx"
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/TEAM_DST"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
-                                url=f"https://t.me/StrangerSuperbot?startgroup=true",
+                                url=f"https://t.me/Shikimori_ultrabot?startgroup=true",
                             ),
                         ],
                     ]
@@ -571,7 +571,7 @@ __help__ = """
  ❍ /info *:* ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜsᴇʀ. 
  ❍ /myinfo *:* sʜᴏᴡs ɪɴғᴏ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴜsᴇʀ ᴡʜᴏ sᴇɴᴛ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ABOUT_SHIVANSHOP)............☆
+☆............𝙱𝚈 » [𝗠𝗔𝗗𝗔𝗥𝗔](https://t.me/DST_KA_PAPA)............☆
 """
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio)
