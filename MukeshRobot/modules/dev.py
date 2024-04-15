@@ -98,5 +98,5 @@ __help__ = """
 /ɢɪᴛᴘᴜʟʟ  ᴛᴏ ᴘᴜʟʟ ɢɪᴛ
 /ʀᴇʙᴏᴏᴛ ᴏʀ /ʀᴇsᴛᴀʀᴛ ᴛᴏ ʀᴇsᴛᴀʀᴛ ʙᴏᴛ 
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ITSZ_SHIVANSH)............☆"""
+☆............𝙱𝚈 » [𝗠𝗔𝗗𝗔𝗥𝗔](https://t.me/DST_KA_PAPA)............☆"""
 __handlers__ = [LEAVE_HANDLER, GITPULL_HANDLER, RESTART_HANDLER, ALLOWGROUPS_HANDLER]
