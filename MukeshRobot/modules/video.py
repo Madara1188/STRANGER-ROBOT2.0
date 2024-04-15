@@ -110,4 +110,4 @@ __help_ = """
 /video to download video song
 /vsong to download video song 
 
-☆............𝙱𝚈 » [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ABOUT_SHIVANSHOP)............☆"""
+☆............𝙱𝚈 » [𝗠𝗔𝗗𝗔𝗥𝗔](https://t.me/dst_ka_papa)............☆"""
