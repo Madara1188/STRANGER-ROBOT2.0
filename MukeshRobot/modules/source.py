@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from MukeshRobot import OWNER_ID, dispatcher
 from MukeshRobot import pbot as client
 
-Mukesh = "https://te.legra.ph/file/eace7a5d8d4b515a11e50.jpg"
+Mukesh = "https://telegra.ph/file/c5a5b99f4d405796fab55.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- ❁❁𝗠𝗔𝗗𝗘 𝗕𝗬[𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/ABOUT_SHIVANSHOP)❁❁
+ ❁❁𝗠𝗔𝗗𝗘 𝗕𝗬[𝗠𝗔𝗗𝗔𝗥𝗔](https://t.me/ULTRA_BOT_UPDATES)❁❁
   
 ╚═════ஜ۩۞۩ஜ════╝
 
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "❁ʀᴇᴘᴏ❁",
-                        url="https://t.me/ABOUT_SHIVANSHOP",
+                        url="https://telegra.ph/file/2b7ec040e2929b335736f.mp4",
                     ),
                 ]
             ]
