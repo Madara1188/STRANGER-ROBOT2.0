@@ -14,17 +14,17 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "29308061" # integer value, dont use ""
-    API_HASH = "462de3dfc98fd938ef9c6ee31a72d099"
+    API_ID = "29285243" # integer value, dont use ""
+    API_HASH = "9324e1e962756ac511288fbf4696ddfd"
     TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = "6919199044" # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "ITSZ_SHIVANSH"
-    SUPPORT_CHAT = "MASTIWITHFRIENDSXD"  # Your own group for support, do not add the @
+    OWNER_USERNAME = "dst_ka_papa"
+    SUPPORT_CHAT = "team_dst"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1002018556839
+        -1001917426206
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1002018556839
+        -1001917426206
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
     # RECOMMENDED
@@ -35,19 +35,19 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = "ibGjchtz3djmcaIDiG3qoLX8KE0Npo1ChFiH7QGpjoQY1uB7BGOPJ~DOT07c0VSH"  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@MASTIWITHFRIENDSXD"
+    SPAMWATCH_SUPPORT_CHAT = "@team_dst"
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
-    DRAGONS = get_user_list("elevated_users.json", "6762113050")
+    DRAGONS = get_user_list("elevated_users.json", "5734659617")
     ##List of id's - (not usernames) for developers who will have the same perms as the owner
-    DEV_USERS = get_user_list("elevated_users.json", "6762113050")
+    DEV_USERS = get_user_list("elevated_users.json", "5734659617")
     ##List of id's (not usernames) for users which are allowed to gban, but can also be banned.
-    DEMONS = get_user_list("elevated_users.json", "6762113050")
+    DEMONS = get_user_list("elevated_users.json", "5734659617")
     # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
-    TIGERS = get_user_list("elevated_users.json", "6762113050")
+    TIGERS = get_user_list("elevated_users.json", "5734659617")
     WOLVES = get_user_list("elevated_users.json", "whitelists")
-    DONATION_LINK = "https://t.me/ABOUT_SHIVANSHOP" # EG, paypal
+    DONATION_LINK = "https://t.me/Ultra_bot_updates" # EG, paypal
     CERT_PATH = None
     PORT = 5000
     DEL_CMDS = True  # Delete commands that users dont have access to, like delete /ban if a non admin uses it.
